@@ -28,8 +28,12 @@ Este programa se basa en el promedio de arreglos que se realizan en el mes, teni
 	Para i<-1 Hasta a Hacer
 		Escribir 'Ingrese el valor de arreglos'
 		Leer arreglos
+
+  
 		total_arreglos <- total_arreglos+arreglos
+  
 	FinPara
+ 
 	pro <- total_arreglos/a
 	Escribir 'El promedio total de sus arreglos  ', pro
 
