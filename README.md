@@ -1,4 +1,4 @@
-# Arreglos
+# Arreglos De Empresa de Costuras
 Este programa se basa en el promedio de arreglos que se realizan en el mes, teniendo e cuenta cuantos arreglos se realizaron, cual fue el valor de cada arreglo y al final mostrar el promedio de arreglos, esto lo utilizamos para llevar un manejo y control de ventas y arreglos realizados.
 
 ## Historia de usuario 
