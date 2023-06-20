@@ -12,7 +12,8 @@ Este programa se basa en el promedio de arreglos que se realizan en el mes, teni
 
 
 ## DFD
-![WhatsApp Image 2023-06-20 at 7 44 22 AM](https://github.com/Julgame/ProyectoJP/assets/136615870/eb4c55d1-ce83-4683-af4f-f9a78a6834bd)
+
+![DFG](https://github.com/Julgame/ProyectoJP/assets/136615870/fb60eb61-9c1c-4fc3-b36a-341a1fda78aa)
 
 
 ## Pseudocódigo
