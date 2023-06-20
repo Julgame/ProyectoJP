@@ -1,27 +1,44 @@
 import java.util.Scanner;
 
-public class Contador {
+public class PromedioArreglosAlMes {
     
     public static void main(String[] args) {
-        int a;
-        double totalArreglos = 0;
-        double arreglo;
-        double prom;
+        double a, totalArreglos, arreglo, prom;
+        int repeticiones;
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Digite cuántos arreglos al mes:");
-        a = scanner.nextInt();
+        System.out.println("Cuantos arreglos se hicieron al mes:");
+        a = scanner.nextDouble();
+        
+        totalArreglos = 0;
 
         for (int i = 1; i <= a; i++) {
-            System.out.println("Ingrese el valor del arreglo " + i + ":");
+            System.out.println("Ingrese el valor de arreglos:");
             arreglo = scanner.nextDouble();
             totalArreglos += arreglo;
         }
 
         prom = totalArreglos / a;
 
-        System.out.println("El promedio total de arreglos del mes: " + prom);
+        System.out.println("El promedio total de sus arreglos: " + prom);
+
+        System.out.println("Cuantas veces desea repetir el proceso?");
+        repeticiones = scanner.nextInt();
+
+        for (int j = 1; j <= repeticiones; j++) {
+            totalArreglos = 0;
+
+            for (int i = 1; i <= a; i++) {
+                System.out.println("Ingrese el valor de arreglos:");
+                arreglo = scanner.nextDouble();
+                totalArreglos += arreglo;
+            }
+
+            prom = totalArreglos / a;
+            System.out.println("El promedio total de sus arreglos: " + prom);
+        }
     }
 }
+
 
 
