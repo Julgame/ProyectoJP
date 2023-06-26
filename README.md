@@ -16,7 +16,7 @@ en el almacenamiento de los datos.
 
 ## Historia de usuario 
 
-![WhatsApp Image 2023-06-20 at 7 41 52 AM (1)](https://github.com/Julgame/ProyectoJP/assets/136615870/55d81b23-ddef-4480-a385-c4beed7128b2)
+
 
 
 ## Caso de uso
