@@ -21,7 +21,8 @@ en el almacenamiento de los datos.
 
 ## Caso de uso
 
-![WhatsApp Image 2023-06-20 at 8 53 46 AM](https://github.com/Julgame/ProyectoJP/assets/136615870/38b2a9f2-c635-4419-a990-27fea532ee30)
+
+![WhatsApp Image 2023-07-04 at 8 30 44 AM](https://github.com/Julgame/ProyectoJP/assets/136615870/ce3205be-1112-414e-940a-028108a19d45)
 
 
 ## DFD
