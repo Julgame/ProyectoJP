@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RegistroVentas
+comment1.params=a
+comment1.target=void\ registrarArreglos(double)
+comment2.params=
+comment2.target=void\ registrarClienteBronce()
+comment3.params=
+comment3.target=void\ registrarClientePlata()
+comment4.params=
+comment4.target=void\ registrarClienteOro()
+comment5.params=a
+comment5.target=double\ calcularPromedioArreglos(double)
+numComments=6

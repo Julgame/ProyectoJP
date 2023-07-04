@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ClientePlata
+comment1.params=cedula\ nombre\ telefono\ atributoAdicionalPlata
+comment1.target=ClientePlata(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAtributoAdicionalPlata()
+comment3.params=atributoAdicionalPlata
+comment3.target=void\ setAtributoAdicionalPlata(java.lang.String)
+numComments=4
